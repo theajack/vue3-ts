@@ -1,4 +1,4 @@
-# vue-next-project
+# vue3-ts
 
 ## Project setup
 ```
